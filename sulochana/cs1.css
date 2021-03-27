@@ -1,0 +1,26 @@
+h1.bor{
+	border:2px solid pink;
+	border-radius: 5px;
+	border-width: 50px;
+	color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+}
+body.ba{
+background-image: url('r.jpg');
+width: 1300px;
+height: 1300px;
+}
+ul.u1{
+	border:2px solid pink;
+	border-radius: 5px;
+	border-width: 50px;
+	color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  font-size: 20px;
+  
+
+}
+
+
+
